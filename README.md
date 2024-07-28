@@ -1,5 +1,5 @@
 <h1 align ="center">A Business Website</h1>
-<img src="image/cover.png">
+<img src="cover.PNG">
  <h3  align ="center"><b>A Business Website using HTML5,CSS3,JAVASCRIPT,BOOTSTRAP</b></h3>
  <br>
 <p>It is a Business website which  is developed on the HTML5,CSS3,JAVASCRIPT programming language which is used for frontend and also JAVASCRIPT is used for backend and  Google Sheet is used as a database and Bootstrap is used as framework. It includes various sections such as  Home , About, Service, Contact.</p>
